@@ -42,18 +42,6 @@ The objective of this project is to build an interactive Power BI dashboard capa
 - Delivering actionable operational insights
 
 ---
-## Dashboard Preview
-
-### Home Dashboard
-![Home Dashboard](Home_Dashboard.png)
-
-### Supplier Deep Dive
-![Supplier Deep Dive](Supplier_Deep_Dive.png)
-
-### Global Trade & Logistics Analysis
-![Global Trade Analysis](Global_Trade_Analysis.png)
-
----
 
 # Dashboard Architecture
 
@@ -281,21 +269,99 @@ Potential future improvements include:
 - Geographic risk heatmaps
 
 ---
+---
+
+# Dashboard Preview
+
+## Home Dashboard
+![Home Dashboard](Home_Dashboard.png)
+
+---
+
+## Supplier Deep Dive
+![Supplier Deep Dive](Supplier_Deep_Dive.png)
+
+---
+
+## Global Trade & Logistics Analysis
+![Global Trade Analysis](Global_Trade_Analysis.png)
+
+---
+
+# Key Features
+
+- Interactive Power BI dashboards
+- Executive KPI reporting
+- Dynamic drill-through supplier analysis
+- Operational risk monitoring
+- Supplier-level intelligence
+- Logistics exposure analysis
+- Trade trend visualization
+- Business-focused storytelling
+- Executive-ready dashboard design
+
+---
+
+# Tech Stack
+
+- Power BI
+- DAX
+- Power Query
+- Excel
+- Data Modeling
+- Business Intelligence
+- Supply Chain Analytics
+
+---
+
+# Project Files
+
+| File | Description |
+|---|---|
+| `Supply Chain Risk Intelligence System.pbix` | Main Power BI dashboard |
+| `Project_Presentation.pptx` | Project presentation deck |
+| `Home_Dashboard.png` | Home dashboard preview |
+| `Supplier_Deep_Dive.png` | Supplier analysis page |
+| `Global_Trade_Analysis.png` | Logistics and trade analysis page |
+
+---
+
+# Dashboard Demo Video
+
+Demo walkthrough video will be added soon.
+
+---
+
+# Future Enhancements
+
+- Real-time API integration
+- Predictive risk modeling
+- AI-driven anomaly detection
+- Supplier forecasting models
+- Live logistics monitoring
+- Automated alert systems
+- Geographic risk heatmaps
+
+---
 
 # Author
-## Anirudh Shukla
 
-Power BI Developer | Data Analyst | Business Intelligence Enthusiast
+## Anirudh Pratap Shukla
+
+Power BI Developer | Data Analyst | SQL Developer
 
 ---
 
 # Conclusion
+
 The Supply Chain Risk Intelligence System demonstrates how Business Intelligence tools can transform operational and trade data into actionable strategic insights.
 
 The project combines:
-- operational analytics,
 - supplier intelligence,
+- operational analytics,
 - logistics exposure analysis,
 - and executive reporting
 
 into a centralized Power BI solution designed to support smarter supply-chain decision-making.
+
+---
