@@ -42,6 +42,18 @@ The objective of this project is to build an interactive Power BI dashboard capa
 - Delivering actionable operational insights
 
 ---
+## Dashboard Preview
+
+### Home Dashboard
+![Home Dashboard](Home_Dashboard.png)
+
+### Supplier Deep Dive
+![Supplier Deep Dive](Supplier_Deep_Dive.png)
+
+### Global Trade & Logistics Analysis
+![Global Trade Analysis](Global_Trade_Analysis.png)
+
+---
 
 # Dashboard Architecture
 
