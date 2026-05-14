@@ -274,17 +274,17 @@ Potential future improvements include:
 # Dashboard Preview
 
 ## Home Dashboard
-![Home Dashboard](Home_Dashboard.png)
+![Home Dashboard](Screenshots/Home_Dashboard.png)
 
 ---
 
 ## Supplier Deep Dive
-![Supplier Deep Dive](Supplier_Deep_Dive.png)
+![Supplier Deep Dive](Screenshots/Supplier_Deep_Dive.png)
 
 ---
 
 ## Global Trade & Logistics Analysis
-![Global Trade Analysis](Global_Trade_Analysis.png)
+![Global Trade Analysis](Screenshots/Global_Trade_Analysis.png)
 
 ---
 
@@ -318,11 +318,11 @@ Potential future improvements include:
 
 | File | Description |
 |---|---|
-| `Supply Chain Risk Intelligence System.pbix` | Main Power BI dashboard |
-| `Project_Presentation.pptx` | Project presentation deck |
-| `Home_Dashboard.png` | Home dashboard preview |
-| `Supplier_Deep_Dive.png` | Supplier analysis page |
-| `Global_Trade_Analysis.png` | Logistics and trade analysis page |
+| `Dashboard/Supply_Chain_Risk_Intelligence_System.pbix` | Main Power BI dashboard |
+| `Presentation/Project_Presentation.pptx` | Project presentation deck |
+| `Screenshots/Home_Dashboard.png` | Home dashboard preview |
+| `Screenshots/Supplier_Deep_Dive.png` | Supplier analysis page |
+| `Screenshots/Global_Trade_Analysis.png` | Logistics and trade analysis page |
 
 ---
 
